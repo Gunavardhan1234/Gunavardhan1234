@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Guna Vardhan and I'm a ML Engineer, from VIT University</p>
+<p align="left">My name is Guna Vardhan and I'm a ML Engineer, from VIT University<.Aspiring Computer Science Engineer (GPA: 8.55) with hands-on experience in AI/ML, full-stack development, and real-world problem-solving through innovative projects. Developed a real-time scream-detection safety app (RescueCall), an AI-powered flight delay optimizer for major Indian airports, and an NLP-driven administrative chatbot. Proficient in Python, machine learning frameworks, NLP, APIs, and databases (MySQL, MongoDB). Certified in Oracle Data Science and IBM AI Engineering. Active problem-solver with strong leadership, teamwork, and competitive programming skills./p>
 
 ###
 
